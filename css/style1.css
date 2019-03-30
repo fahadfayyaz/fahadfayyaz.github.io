@@ -1,0 +1,27 @@
+.navbar-green{
+	background-color: #30ad62;
+}
+ul{
+padding-right: 100px;
+
+}
+ul li a{
+	color: red;
+}
+.img1{
+
+
+	display: inline-block;
+	 position: relative; 
+	margin-left: 100px;
+	 margin-top: 8px;
+}
+.img2{
+
+display: inline-block; 
+position: relative; 
+float: right; 
+background-color: #30ad62; 
+margin-right: -15px; 
+height: 90px;
+}
