@@ -80,6 +80,6 @@ window.onkeydown = function (key) {
         document.getElementById('cursor-line').className = 'visible';
         setTimeout(function () {
             loadMainPage()
-        }, 800);
+        }, 200);
     }
 };
